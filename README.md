@@ -12,8 +12,9 @@ In the macroeconomic theory, there is a strong link between stock price and econ
 
 #Model
 Linear regression was applied.
-𝑌 = 21910 + 3.037𝑋! − 1286𝑋! − 51230𝑋! − 144𝑋!+0.5302𝑋! + 1574𝑋! + 𝜀
-Y: DJIA, X1 : GDP, X!: FFR, X!: CPI, X!: USI, X!: DJIA_LQ, X!: 3MTB, 𝜀: Error terms
+𝑌 = 21910 + 3.037𝑋! − 1286𝑋! − 51230𝑋! − 144𝑋!+0.5302𝑋! + 1574𝑋!+ 𝜀
+
+Y: DJIA, X1 : GDP, X2 : FFR, X3 : CPI, X4 : USI, X5 : DJIA_LQ, X6 : 3MTB, 𝜀: Error terms
 
 #Interpretation
 GDP and Dow Jones Industrial Index is positively related, a unit increase in GDP of United State results in DJIA increasing about 3.037 units.
