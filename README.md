@@ -18,8 +18,13 @@ Y: DJIA, X1 : GDP, X2 : FFR, X3 : CPI, X4 : USI, X5 : DJIA_LQ, X6 : 3MTB, 𝜀: 
 
 #Interpretation
 GDP and Dow Jones Industrial Index is positively related, a unit increase in GDP of United State results in DJIA increasing about 3.037 units.
+
 If Federal Fund Rate increase 1%, the DJIA will approximately drop 12.86 units. This means that if bank raise interest rate, more money will be deposit in the banking system rather than investing in stock market.
+
 Consumer Price Index results in dropping 512.3 of DJIA when it increases 1%.
+
 U.S. Dollar Index is negative related with DJIA, approximate 144 drop in DJIA if U.S. Dollar Index increase one unit.
+
 DJIA from last quarter is a good indicator to DJIA of this quarter, about 0.5302 increasing in this quarter if the data from last quarter increased 1 unit.
+
 1% increase in 3-Month Treasury Bill will lead to 15.74 increasing in DJIA.
