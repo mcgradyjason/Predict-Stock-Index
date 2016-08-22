@@ -12,7 +12,7 @@ In the macroeconomic theory, there is a strong link between stock price and econ
 
 #Model
 Linear regression was applied.
-𝑌 = 21910 + 3.037𝑋! − 1286𝑋! − 51230𝑋! − 144𝑋!+0.5302𝑋! + 1574𝑋!+ 𝜀
+Y=21910+3.037X_1-1286X_2-51230X_3-144X_4+0.5302X_5+1574X_6+ ε𝑋!+ 𝜀
 
 Y: DJIA, X1 : GDP, X2 : FFR, X3 : CPI, X4 : USI, X5 : DJIA_LQ, X6 : 3MTB, 𝜀: Error terms
 
